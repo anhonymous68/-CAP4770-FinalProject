@@ -6,7 +6,7 @@
 * Alexander Prascak
   
 ### Dataset and Classification Techniques
-Kaggle dataset: https://www.kaggle.com/datasnaek/youtube-new
+Kaggle dataset: https://www.kaggle.com/datasnaek/youtube-new  
 Classification methods: K-Nearest Neighbors, Decision Tree, Random Forest, Support Vector Machine  
 Attributes: title, tags, views, likes, dislikes, comment count
 
